@@ -1,1 +1,1 @@
-https://github.com/AngieNavarro/Single-Page-CV
+https://angienavarro.github.io/Single-Page-CV/
